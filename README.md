@@ -5,7 +5,7 @@
 当前版本 2.1.0。操作指南（WI）在程序里按 F1 打开，有中文和英文两份；本文件是概览。
 
 ## AI to do
-![AntCode](use.png)
+![AntCode](use.jpg)
 
 
 ## 如何下载

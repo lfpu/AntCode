@@ -3,7 +3,9 @@
 基于 .NET 8 WinForms + WebView2 的 Windows 桌面智能体。它用网页版 ChatHub（Copilot、DeepSeek）或 OpenAI 兼容 API 作为 LLM，在本地项目里新建、修改、删除文件，运行命令，帮你编写代码和文档。界面是 VS Code 风格的三栏布局，内置编辑器、终端和 Markdown 预览。
 
 当前版本 2.1.0。操作指南（WI）在程序里按 F1 打开，有中文和英文两份；本文件是概览。
+![AntCode](image.png)
 
+## 使用前请先阅读操作说明：帮助-操作指南
 ## 功能一览
 
 - **两种 LLM 后端**：ChatHub 网页（Copilot、DeepSeek）和 OpenAI 兼容 API（OpenAI、Azure、DeepSeek、通义、Ollama、vLLM、LM Studio 等），用 `LlmMode` 切换。

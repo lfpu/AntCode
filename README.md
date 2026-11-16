@@ -4,6 +4,9 @@
 
 当前版本 2.1.0。操作指南（WI）在程序里按 F1 打开，有中文和英文两份；本文件是概览。
 
+## 开放授权码：
+ANTC-X349-HQJ9-SGGW-6L5J
+
 ## AI to do
 ![AntCode](use.jpg)
 
@@ -20,6 +23,7 @@
 - **任务清单**：LLM 把多步任务拆成清单并逐项推进，清单还有未完成项时自动继续，不用再手动说「继续第 N 步」。
 - **计划模式**：批准计划之前只读，不会写文件，也不会执行命令。
 - **技能（Skills）**：兼容 Claude 的 `SKILL.md`，支持文件夹、zip 和 GitHub 地址导入。
+- **MCP service**： 通用MCP服务协议，支持通用MCP服务。如 NX modelling MCP 点击[https://github.com/lfpu/MCP-NX-Modeling](https://github.com/lfpu/MCP-NX-Modeling)
 - **项目记忆**：`/init` 生成，`/compact` 压缩，新对话自动带上。
 - **省 token 设计**：工具说明只发一次，目录树只发变化，长文件转附件，工具结果精简。
 - **右侧标签页**：Monaco 编辑器、终端、Markdown 预览、任务清单、技能、WI、ChatHub 调试视图。
